@@ -17,7 +17,8 @@ and then
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Windows_logo_%E2%80%93_2021.svg" alt="Windows" width="60" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Windows_10_Logo.png
+" alt="Kali Linux" width="60" />
 </p>
 
 
