@@ -1,2 +1,2 @@
-# zip-crack-er
-only for education 
+# zip-cracker
+zip cracker use for password
