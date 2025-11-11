@@ -11,7 +11,13 @@ and then
  
 ---
 
-### 🖥️ Supported Systems
-![Windows](https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Windows_logo_%E2%80%93_2021.svg | width=50)
-![Kali Linux](https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg | width=50)
+---
+
+<h3>🖥️ Supported Systems</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Windows_logo_%E2%80%93_2021.svg" alt="Windows" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="60" />
+</p>
+
 
